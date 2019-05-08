@@ -2,6 +2,8 @@ public class Veiculo {
 
 	private int idVeiculo;
 
+	private String placa;
+
 	private String modelo;
 
 	private String numeroChassi;
@@ -10,6 +12,8 @@ public class Veiculo {
 
 	private String cor;
 
-	private OrdemServico[] OrdemServico;
+	private OrdemServico[] ordemServico;
+
+	private OrdemServico[] ordemServico;
 
 }

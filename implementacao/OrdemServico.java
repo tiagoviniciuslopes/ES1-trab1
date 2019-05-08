@@ -10,10 +10,10 @@ public class OrdemServico {
 
 	private Date data;
 
-	private boolean isOrcamento;
-
 	private Servico[] servico;
 
 	private Peca[] peca;
+
+	private Etapa etapa;
 
 }

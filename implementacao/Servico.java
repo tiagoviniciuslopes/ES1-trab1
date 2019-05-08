@@ -6,8 +6,6 @@ public class Servico {
 
 	private float preco;
 
-	private String marca;
-
 	private float horas;
 
 }
