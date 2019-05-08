@@ -10,6 +10,6 @@ public class Veiculo {
 
 	private String cor;
 
-	private ordemServico[] ordemServico;
+	private OrdemServico[] OrdemServico;
 
 }

@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class ordemServico {
+public class OrdemServico {
 
 	private int idOrdemServico;
 
