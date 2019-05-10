@@ -11,12 +11,12 @@ import Model.Servico;
 public class DAOOrdemServico {
 	
 	
-	public static void main(String[] args) throws Exception{
+	/*public static void main(String[] args) throws Exception{
 		DAOOrdemServico dao = new DAOOrdemServico();
 		ArrayList<OrdemServico> os = dao.consultarPorPlaca("AMM-1234");
 		
 		System.out.println("a");
-	}
+	}*/
 	
 	public ArrayList <OrdemServico> consultarPorPlaca(String placa) throws Exception {
 		ArrayList <OrdemServico> list = new ArrayList <OrdemServico> ();
